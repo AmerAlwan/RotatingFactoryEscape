@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "rotatingFactoryEscape", "rotatingFactoryEscape\rotatingFactoryEscape.pyproj", "{5A244559-4775-4589-96AE-684398E7508A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A244559-4775-4589-96AE-684398E7508A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A244559-4775-4589-96AE-684398E7508A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B99F1B4-51BA-48CF-9F65-5FB479127348}
+	EndGlobalSection
+EndGlobal
